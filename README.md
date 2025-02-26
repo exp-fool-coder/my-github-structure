@@ -8,6 +8,8 @@
  - [web-lib](https://github.com/exp-fool-coder/web-lib) Обертка с дополнительным набором методов для spring-web-starter
  - [test-lib](https://github.com/exp-fool-coder/test-lib) Набор зависимостей для тестирования в spring boot приложении
  - [project-root](https://github.com/exp-fool-coder/project-root) Родительский проект с базовым набором зависимостей и spring boot
+ - [cache-lib](https://github.com/exp-fool-coder/cache-lib) Стартер с набором интерфейсов для работы с кэшом плюс реализация кэша в редис
+   
 
 ## <a id="project-leaderboard">Leaderboad</a>
   Проект для сбора результатов соревнований с отображением прогресса в реальном времени
